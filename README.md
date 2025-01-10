@@ -7,8 +7,8 @@ machine learning and AI projects
     y: 303 binary targets (303,)
     pythone code : pythone1.ipynb
     model : RandomForestClassifier
-    rsults : 'f1': 0.82, 'precision': 0.84, 'recall': 0.81\n
-    model : LogisticRegrassion\n
+    rsults : 'f1': 0.82, 'precision': 0.84, 'recall': 0.81/n
+    model : LogisticRegrassion/n
     rsults : 'f1': 0.84, 'precision': 0.83, 'recall': 0.85
     executable model : Logistic_Regrassion_88.joblib
  *
