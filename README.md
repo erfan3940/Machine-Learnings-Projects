@@ -1,7 +1,7 @@
 # my_ml_projects
 machine learning and AI projects
 
-  1. Heart Disease project : 
+  *1. Heart Disease project : 
   contains a csv file with :
     x: 13 features (13,303)
     y: 303 binary targets (303,)
